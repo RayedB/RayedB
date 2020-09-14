@@ -1,1 +1,1 @@
-This is my profile
+Founder of [Practical Programming](https://practicalprogramming.fr)
